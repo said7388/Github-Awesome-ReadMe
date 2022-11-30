@@ -15,6 +15,21 @@
 
 ---
 
+#### Who I am?
+
+- A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
+- Working as **Software Engineer I** at **[Teton Private Ltd.](https://tetonelectronics.com/)**.
+- Open Source enthusiast.
+- See my portfolio at **[Click here](https://abusaid.netlify.app/)**.
+
+#### What I'm doing?
+
+- Writing `JavaScript`, `React,js`, `Next.js`, `Redux`, `Node.js`, `MySQL`, `MongoDB`.
+- Contributing to Open Source.
+- Mostly active on **[LinkedIn](https://www.linkedin.com/in/abu-said-bd/)**.
+
+---
+
 ### Connect With Me:
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abusaid.riyaz)
